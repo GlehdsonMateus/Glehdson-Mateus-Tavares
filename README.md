@@ -26,8 +26,8 @@ Aqui estão as ferramentas, linguagens e tecnologias que utilizo nos meus estudo
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GlehdsonMateus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlehdsonMateus&theme=dracula" alt="GitHub Streak" height="180px" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ Aqui estão as ferramentas, linguagens e tecnologias que utilizo nos meus estudo
 
 Vamos conversar sobre robótica, trocar experiências ou colaborar em projetos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gléhdson-mateus)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](glehdson123@gmail.com)
 
 ---
