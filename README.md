@@ -37,7 +37,7 @@ Aqui estão as ferramentas, linguagens e tecnologias que utilizo nos meus estudo
 Vamos conversar sobre robótica, trocar experiências ou colaborar em projetos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gléhdson-mateus-b46224331?original_referer=https%3A%2F%2Fwww.linkedin.com%2F](https://br.linkedin.com/in/gl%C3%A9hdson-mateus-b46224331?original_referer=https%3A%2F%2Fwww.linkedin.com%2F))
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](glehdson123@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glehdson123@gmail.com)
 
 ---
 
